@@ -1,6 +1,6 @@
 # Handify – Website
 
-Website der iPad-App Handify: <https://handifyapp.github.io>
+Website der App Handify für iPhone und iPad: <https://handifyapp.github.io>
 
 - `index.html` – Startseite, Hilfe und Kontakt (Support-URL im App Store)
 - `datenschutz/` – Datenschutzerklärung (Datenschutz-URL im App Store)
